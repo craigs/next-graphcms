@@ -1,0 +1,28 @@
+.sub {
+  font-size: 0.75em;
+}
+
+.link {
+  display: block;
+  text-decoration: none;
+  margin-bottom: 2rem;
+}
+
+.link h4 {
+  color: #1b1b1b;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.link p {
+  color: #1b1b1b;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.link p.published {
+  color: #767676;
+  font-size: 0.8rem;
+  margin-top: 0;
+}
